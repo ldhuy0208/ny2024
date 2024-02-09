@@ -5,7 +5,7 @@
 * License: https://creativecommons.org/licenses/by/3.0/
 */
 body {
-  font-family: "PT Mono", monospace;
+  font-family: "JetBrains Mono", monospace;
   line-height: 1.6;
   background: #ffffff;
   overflow-x: hidden;
@@ -1152,7 +1152,7 @@ figure.dotted-bg {
 #about-section {
   margin-top: 7rem; }
   #about-section .container {
-    background: #0389ff;
+    background: #fff4e3;
     padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 50px;
